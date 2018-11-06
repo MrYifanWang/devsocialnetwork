@@ -7,3 +7,5 @@
 • Used Passport.js to authenticate users with JSON Web Tokens
 
 • Built NoSQL database (MongoDB) for store user account info, profile and posts
+
+Demo Website: https://devsocial7000.herokuapp.com/
